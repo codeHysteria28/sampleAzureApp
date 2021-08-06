@@ -1,0 +1,5 @@
+{
+    "git.ignoreLimitWarning": true,
+    "appService.defaultWebAppToDeploy": "/subscriptions/4c5c36f7-a8a8-437a-9c95-a9c067a57f38/resourceGroups/sampleAppRG/providers/Microsoft.Web/sites/sampleapp12354",
+    "appService.deploySubpath": "."
+}

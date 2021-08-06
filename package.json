@@ -1,0 +1,11 @@
+{
+  "name": "sampleapp",
+  "version": "1.0.0",
+  "description": "sample app to be deployed on Azure App Service",
+  "main": "index.js",
+  "author": "Tobia, Anne, Branislav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
